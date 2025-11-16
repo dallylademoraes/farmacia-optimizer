@@ -343,7 +343,7 @@ Se tiver dúvidas sobre:
 
 ---
 
-**Última atualização**: 2024
+**Última atualização**: 2025
 
 **Versão do sistema**: 1.0
 
