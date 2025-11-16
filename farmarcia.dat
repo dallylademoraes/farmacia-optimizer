@@ -1,0 +1,28 @@
+# -----------------------------
+# dados do problema (ajustados)
+# -----------------------------
+
+set PROD := P1 P2 P3;
+
+set MAQ := Misturador Reator;
+
+param demanda :=
+P1 150     # Paracetamol
+P2 100     # Ibuprofeno
+P3 150 ;   # Vitamina C
+
+param custo :=
+P1 35
+P2 45
+P3 20 ;
+
+param capacidade :=
+Misturador 1200
+Reator     1000 ;
+
+param tempo :
+                 P1    P2    P3 :=
+Misturador       2     3     1.5
+Reator           2.5   3     2 ;
+
+end;
