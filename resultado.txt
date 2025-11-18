@@ -1,4 +1,0 @@
-Resultados da Producao:
-P1: 150 lotes
-P2: 100 lotes
-P3: 150 lotes
